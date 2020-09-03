@@ -21,4 +21,6 @@ Folder "segmentation" includes the field photos captured by one of our cameras, 
 * **segmentation/seg_funcs_parallel.R**: this .R file is a pipline to segment a sequence of plant field photos using parallel computing.
 
 ## height_measurement
+Folder "height_measurement" includes the algorithm for height extraction and curve fitting, and one example growth curves fitting result.
+
 * **height_measurement/height_measure.R**: run this .R file to extract plant heights from the segmented images and fit growth curves for the plants.
