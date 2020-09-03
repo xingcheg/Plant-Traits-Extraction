@@ -1,8 +1,6 @@
 # this .R file applied our trained segmentation model to segment a sequence of
 # field photos taken by one of our cameras.
 
-setwd("/Users/apple/Work/RA/Prof_Nettleton/image_analysis/Github/Project1")
-
 library(EBImage)
 library(jpeg)
 library(keras)
