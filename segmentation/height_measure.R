@@ -1,3 +1,6 @@
+# this .R file provides the complete algorithm for plant height measurement
+# and growth curve fitting.
+
 setwd("/Users/apple/Work/RA/Prof_Nettleton/image_analysis/Github/Project1")
 
 library(EBImage)
