@@ -1,3 +1,6 @@
+# This .R file is used to transform the cropped background images to feature matrix 
+# that can be used in neural network training.
+
 setwd("/Users/apple/Work/RA/Prof_Nettleton/image_analysis/Github/Project1")
 
 library(EBImage)
