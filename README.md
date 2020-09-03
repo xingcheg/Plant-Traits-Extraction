@@ -11,7 +11,8 @@ Folder "model_train" includes the cropped plant and background images and R code
 ### model_train/data
 training images (background and plant images).
 
-### model_train/background_labeling.R (model_train/plant_labeling.R)
+### model_train/background_labeling.R 
+### model_train/plant_labeling.R
 run these two .R files to create plant and background feature and label for neural network training.
 
 ### model_train/train_seg_model.R
