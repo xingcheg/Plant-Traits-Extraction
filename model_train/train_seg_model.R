@@ -1,3 +1,5 @@
+# this .R file use Keras to train our segmentation model (neural network model).
+
 setwd("/Users/apple/Work/RA/Prof_Nettleton/image_analysis/Github/Project1")
 library(keras)
 
