@@ -1,3 +1,7 @@
+# This .R file is used to extract plant pixels from greenhouse images
+# and use those greenhouse plant pixels along with the cropped plant images 
+# from field as training data.
+
 setwd("/Users/apple/Work/RA/Prof_Nettleton/image_analysis/Github/Project1")
 
 library(EBImage)
