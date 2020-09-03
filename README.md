@@ -8,9 +8,12 @@ The trained self-supervised learning model for field photo segmentation.
 ## model_train
 Folder "model_train" includes the cropped plant and background images and R code that used to train our self-superviesd learning model for plant segmentation.
 
-* **model_train/data**: training images (background and plant images).
-* **model_train/background_labeling.R** and **model_train/plant_labeling.R**:run these two .R files to create plant and background feature and label for neural network training.
+* **model_train/data**: training images (both background and plant).
+* **model_train/background_labeling.R** and **model_train/plant_labeling.R**: run these two .R files to create plant and background features and labels for neural network training.
 * **model_train/train_seg_model.R**: run this .R files to train our segmentation model.
 
 ## segmentation
-Folder "segmentation" includes the field photos captured by one of our cameras, the segmented photos, and all the R code that used to segment the images, measure plant heights, and fit for growth curves.
+Folder "segmentation" includes the field photos captured by one of our cameras, the segmented photos, and R code that used to segment the images.
+
+* **segmentation/CAM322**: raw field photos taken by camera 322.
+* **segmentation/CAM322_seg**: segmented field images for camera 322.
