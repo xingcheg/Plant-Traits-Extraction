@@ -2,7 +2,6 @@
 # field photos taken by one of our cameras. Parallel computing is used to increase
 # the computation speed.
 
-setwd("/Users/apple/Work/RA/Prof_Nettleton/image_analysis/Github/Project1")
 
 library(doParallel)
 library(keras)
