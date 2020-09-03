@@ -17,5 +17,7 @@ Folder "segmentation" includes the field photos captured by one of our cameras, 
 
 * **segmentation/CAM322**: raw field photos taken by camera 322.
 * **segmentation/CAM322_seg**: segmented field images for camera 322.
-* **segmentation/seg_funcs**: this .R file is a pipline to segment a sequence of plant field photos.
-* **segmentation/seg_funcs_parallel**: this .R file is a pipline to segment a sequence of plant field photos using parallel computing.
+* **segmentation/seg_funcs.R**: this .R file is a pipline to segment a sequence of plant field photos.
+* **segmentation/seg_funcs_parallel.R**: this .R file is a pipline to segment a sequence of plant field photos using parallel computing.
+
+## height_measurement
