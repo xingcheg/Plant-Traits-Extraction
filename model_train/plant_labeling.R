@@ -2,8 +2,6 @@
 # and use those greenhouse plant pixels along with the cropped plant images 
 # from field as training data.
 
-setwd("/Users/apple/Work/RA/Prof_Nettleton/image_analysis/Github/Project1")
-
 library(EBImage)
 library(png)
 library(jpeg)
