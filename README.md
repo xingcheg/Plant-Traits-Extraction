@@ -1,7 +1,7 @@
 # Plant-Traits-Extraction
 
 R code and associated files/data for the analysis from the paper "KAT4IA: K-Means Assisted Training for Image Analysis of
-Field-Grown Plant Phenotypes". by Xingche Guo, Yumou Qiu, Dan Nettleton, Cheng-Ting Yeh, Zihao Zheng, Stefan Hey, and Patrick S. Schnable.
+Field-Grown Plant Phenotypes". by Xingche Guo, Yumou Qiu, Dan Nettleton, Cheng-Ting Yeh, Zihao Zheng, Stefan Hey, and Patrick S. Schnable. https://downloads.spj.sciencemag.org/plantphenomics/2021/9805489.pdf
 
 ## PlantMod2.hdf5
 The trained self-supervised learning model for field photo segmentation.
